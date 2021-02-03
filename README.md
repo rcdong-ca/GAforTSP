@@ -1,4 +1,4 @@
-# Final Project: TSP with Genetic AlgorithmRichard Dong
+# Final Project: TSP with Genetic Algorithm
 
 ## Introduction
 
