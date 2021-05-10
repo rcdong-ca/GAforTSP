@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The genetic algorithm framework is borrowed from the tsp.py given by class. The
+The genetic algorithm framework is borrowed from the tsp.py given by my AI Survey Course. The
 framework can be broken down into the following parts: Initial Population generation, Fitness
 Function, Selection, Crossover, Mutation. The initial population generation was given by the
 tsp.py . It functions by creating a list of 1 -\> 1000, and then shuffling it to form one
